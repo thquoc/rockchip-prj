@@ -1,2 +1,4 @@
-Record=TopLevelDocument|FileName=PMIC.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=PMIC.SchDoc|FileName=PWR_IN.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=Block Diagram.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Block Diagram.SchDoc|FileName=PMIC.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Block Diagram.SchDoc|FileName=Power Blocks Diagram.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Block Diagram.SchDoc|FileName=PWR_IN.SchDoc|SheetNumber=2
