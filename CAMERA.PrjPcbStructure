@@ -1,13 +1,21 @@
 Record=TopLevelDocument|FileName=Block Diagram.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Block Diagram.SchDoc|FileName=CANFD.SchDoc|SheetNumber=16
+Record=NoMainPathDocument|SourceDocument=Block Diagram.SchDoc|FileName=Connector.SchDoc|SheetNumber=20
 Record=NoMainPathDocument|SourceDocument=Block Diagram.SchDoc|FileName=EMMC CHIP.SchDoc|SheetNumber=10
 Record=NoMainPathDocument|SourceDocument=Block Diagram.SchDoc|FileName=LPDDR4X SDRAM.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=Block Diagram.SchDoc|FileName=MIPI_CSI.SchDoc|SheetNumber=17
+Record=NoMainPathDocument|SourceDocument=Block Diagram.SchDoc|FileName=OTHER.SchDoc|SheetNumber=21
 Record=NoMainPathDocument|SourceDocument=Block Diagram.SchDoc|FileName=PMIC.SchDoc|SheetNumber=4
 Record=NoMainPathDocument|SourceDocument=Block Diagram.SchDoc|FileName=PMUIO_BLOCK.SchDoc|SheetNumber=6
 Record=NoMainPathDocument|SourceDocument=Block Diagram.SchDoc|FileName=Power Blocks Diagram.SchDoc|SheetNumber=2
 Record=NoMainPathDocument|SourceDocument=Block Diagram.SchDoc|FileName=Power Pins Page RV1126.SchDoc|SheetNumber=5
 Record=NoMainPathDocument|SourceDocument=Block Diagram.SchDoc|FileName=PWR_IN.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Block Diagram.SchDoc|FileName=RGMII.SchDoc|SheetNumber=18
+Record=NoMainPathDocument|SourceDocument=Block Diagram.SchDoc|FileName=RGMII_PHY.SchDoc|SheetNumber=19
 Record=NoMainPathDocument|SourceDocument=Block Diagram.SchDoc|FileName=RV1126B EMMC.SchDoc|SheetNumber=9
+Record=NoMainPathDocument|SourceDocument=Block Diagram.SchDoc|FileName=SARADC.SchDoc|SheetNumber=14
 Record=NoMainPathDocument|SourceDocument=Block Diagram.SchDoc|FileName=SDCARD.SchDoc|SheetNumber=12
 Record=NoMainPathDocument|SourceDocument=Block Diagram.SchDoc|FileName=SDMMC1.SchDoc|SheetNumber=13
 Record=NoMainPathDocument|SourceDocument=Block Diagram.SchDoc|FileName=SDMMC RV1126B.SchDoc|SheetNumber=11
 Record=NoMainPathDocument|SourceDocument=Block Diagram.SchDoc|FileName=SDRAM RV1126B.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=Block Diagram.SchDoc|FileName=USB 2.0 CONTROLLER.SchDoc|SheetNumber=15
