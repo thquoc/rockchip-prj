@@ -1,0 +1,52 @@
+Removed Pin From Net: NetName=VDD_VEPU_LOGIC Pin=C6-1
+Removed Pin From Net: NetName=GND Pin=C6-2
+Removed Pin From Net: NetName=VDD_VEPU_LOGIC Pin=C7-1
+Removed Pin From Net: NetName=GND Pin=C7-2
+Change Component Footprint: Designator=C5 Old Footprint=C0603 New Footprint=C0402
+Change Component Footprint: Designator=C6 Old Footprint=C0603 New Footprint=C0402
+Change Component Footprint: Designator=C7 Old Footprint=C0603 New Footprint=C0402
+Change Component Footprint: Designator=C13 Old Footprint=C0603 New Footprint=C0402
+Change Component Footprint: Designator=C16 Old Footprint=C0603 New Footprint=C0402
+Change Component Footprint: Designator=C29 Old Footprint=C0603 New Footprint=C0402
+Change Component Footprint: Designator=C30 Old Footprint=C0603 New Footprint=C0402
+Change Component Footprint: Designator=C31 Old Footprint=C0603 New Footprint=C0402
+Change Component Footprint: Designator=C35 Old Footprint=C0603 New Footprint=C0402
+Change Component Footprint: Designator=C36 Old Footprint=C0603 New Footprint=C0402
+Change Component Footprint: Designator=C37 Old Footprint=C0603 New Footprint=C0402
+Change component parameters: Designator = "C5" ("C5"); Footprint = "C0603"; UniqueID = "\CQOTIRER" ("\CQOTIRER")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C385994.html?s_z=n_q_t_22UF&spm=wm.fly.bg.2.xh___wm.ssy.tc.2.tz&lcsc_vid=EwRWBFZSQVIPVFdUTlJfVldeFFRYUFQAElRYBFRRE1MxVlNeRFZbX1BRRVlbVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXRlhXSQwSGg0%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6" ("C6"); Footprint = "C0603"; UniqueID = "\UBEVOJTM" ("\UBEVOJTM")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C385994.html?s_z=n_q_t_22UF&spm=wm.fly.bg.2.xh___wm.ssy.tc.2.tz&lcsc_vid=EwRWBFZSQVIPVFdUTlJfVldeFFRYUFQAElRYBFRRE1MxVlNeRFZbX1BRRVlbVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXRlhXSQwSGg0%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7" ("C7"); Footprint = "C0603"; UniqueID = "\DIQOEGZM" ("\DIQOEGZM")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C385994.html?s_z=n_q_t_22UF&spm=wm.fly.bg.2.xh___wm.ssy.tc.2.tz&lcsc_vid=EwRWBFZSQVIPVFdUTlJfVldeFFRYUFQAElRYBFRRE1MxVlNeRFZbX1BRRVlbVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXRlhXSQwSGg0%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C13" ("C13"); Footprint = "C0603"; UniqueID = "\ZEMZOXXD" ("\ZEMZOXXD")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C385994.html?s_z=n_q_t_22UF&spm=wm.fly.bg.2.xh___wm.ssy.tc.2.tz&lcsc_vid=EwRWBFZSQVIPVFdUTlJfVldeFFRYUFQAElRYBFRRE1MxVlNeRFZbX1BRRVlbVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXRlhXSQwSGg0%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C16" ("C16"); Footprint = "C0603"; UniqueID = "\IZMHERYQ" ("\IZMHERYQ")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C385994.html?s_z=n_q_t_22UF&spm=wm.fly.bg.2.xh___wm.ssy.tc.2.tz&lcsc_vid=EwRWBFZSQVIPVFdUTlJfVldeFFRYUFQAElRYBFRRE1MxVlNeRFZbX1BRRVlbVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXRlhXSQwSGg0%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C29" ("C29"); Footprint = "C0603"; UniqueID = "\OVLCEGNF" ("\OVLCEGNF")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C385994.html?s_z=n_q_t_22UF&spm=wm.fly.bg.2.xh___wm.ssy.tc.2.tz&lcsc_vid=EwRWBFZSQVIPVFdUTlJfVldeFFRYUFQAElRYBFRRE1MxVlNeRFZbX1BRRVlbVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXRlhXSQwSGg0%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C30" ("C30"); Footprint = "C0603"; UniqueID = "\WCOGHCMZ" ("\WCOGHCMZ")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C385994.html?s_z=n_q_t_22UF&spm=wm.fly.bg.2.xh___wm.ssy.tc.2.tz&lcsc_vid=EwRWBFZSQVIPVFdUTlJfVldeFFRYUFQAElRYBFRRE1MxVlNeRFZbX1BRRVlbVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXRlhXSQwSGg0%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C31" ("C31"); Footprint = "C0603"; UniqueID = "\KUFTHPDN" ("\KUFTHPDN")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C385994.html?s_z=n_q_t_22UF&spm=wm.fly.bg.2.xh___wm.ssy.tc.2.tz&lcsc_vid=EwRWBFZSQVIPVFdUTlJfVldeFFRYUFQAElRYBFRRE1MxVlNeRFZbX1BRRVlbVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXRlhXSQwSGg0%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C35" ("C35"); Footprint = "C0603"; UniqueID = "\ALKRMECI" ("\ALKRMECI")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C385994.html?s_z=n_q_t_22UF&spm=wm.fly.bg.2.xh___wm.ssy.tc.2.tz&lcsc_vid=EwRWBFZSQVIPVFdUTlJfVldeFFRYUFQAElRYBFRRE1MxVlNeRFZbX1BRRVlbVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXRlhXSQwSGg0%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C36" ("C36"); Footprint = "C0603"; UniqueID = "\GRRXBFOD" ("\GRRXBFOD")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C385994.html?s_z=n_q_t_22UF&spm=wm.fly.bg.2.xh___wm.ssy.tc.2.tz&lcsc_vid=EwRWBFZSQVIPVFdUTlJfVldeFFRYUFQAElRYBFRRE1MxVlNeRFZbX1BRRVlbVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXRlhXSQwSGg0%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C37" ("C37"); Footprint = "C0603"; UniqueID = "\PCSYQIOC" ("\PCSYQIOC")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C385994.html?s_z=n_q_t_22UF&spm=wm.fly.bg.2.xh___wm.ssy.tc.2.tz&lcsc_vid=EwRWBFZSQVIPVFdUTlJfVldeFFRYUFQAElRYBFRRE1MxVlNeRFZbX1BRRVlbVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXRlhXSQwSGg0%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=VDD_VEPU_LOGIC Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=VDD_VEPU_LOGIC Pin=C7-2

@@ -1,0 +1,36 @@
+Added Component: Designator=R41(R0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C295718.html?s_z=n_q_t_120%2520OHM&spm=wm.fly.bg.5.xh___wm.ssy.tc.1.tz&lcsc_vid=EwRWBFZSQVIPVFdUTlJfVldeFFRYUFQAElRYBFRRE1MxVlNeRFZeU1BfTlBYVzsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRVhcV1ZTT08GEwkK"; VariantName = "[No Variations]"
+Added Component: Designator=R42(R0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C295718.html?s_z=n_q_t_120%2520OHM&spm=wm.fly.bg.5.xh___wm.ssy.tc.1.tz&lcsc_vid=EwRWBFZSQVIPVFdUTlJfVldeFFRYUFQAElRYBFRRE1MxVlNeRFZeU1BfTlBYVzsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRVhcV1ZTT08GEwkK"; VariantName = "[No Variations]"
+Added Component: Designator=R43(R0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C295718.html?s_z=n_q_t_120%2520OHM&spm=wm.fly.bg.5.xh___wm.ssy.tc.1.tz&lcsc_vid=EwRWBFZSQVIPVFdUTlJfVldeFFRYUFQAElRYBFRRE1MxVlNeRFZeU1BfTlBYVzsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRVhcV1ZTT08GEwkK"; VariantName = "[No Variations]"
+Added Component: Designator=R44(R0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C295718.html?s_z=n_q_t_120%2520OHM&spm=wm.fly.bg.5.xh___wm.ssy.tc.1.tz&lcsc_vid=EwRWBFZSQVIPVFdUTlJfVldeFFRYUFQAElRYBFRRE1MxVlNeRFZeU1BfTlBYVzsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRVhcV1ZTT08GEwkK"; VariantName = "[No Variations]"
+Added Component: Designator=R45(R0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C295718.html?s_z=n_q_t_120%2520OHM&spm=wm.fly.bg.5.xh___wm.ssy.tc.1.tz&lcsc_vid=EwRWBFZSQVIPVFdUTlJfVldeFFRYUFQAElRYBFRRE1MxVlNeRFZeU1BfTlBYVzsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRVhcV1ZTT08GEwkK"; VariantName = "[No Variations]"
+Added Component: Designator=R46(R0201)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C295718.html?s_z=n_q_t_120%2520OHM&spm=wm.fly.bg.5.xh___wm.ssy.tc.1.tz&lcsc_vid=EwRWBFZSQVIPVFdUTlJfVldeFFRYUFQAElRYBFRRE1MxVlNeRFZeU1BfTlBYVzsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRVhcV1ZTT08GEwkK"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR41_1 Pin=R41-1
+Added Pin To Net: NetName=SDMMC1_D3 Pin=R41-2
+Added Pin To Net: NetName=NetR42_1 Pin=R42-1
+Added Pin To Net: NetName=SDMMC1_D2 Pin=R42-2
+Added Pin To Net: NetName=NetR43_1 Pin=R43-1
+Added Pin To Net: NetName=SDMMC1_D1 Pin=R43-2
+Added Pin To Net: NetName=NetR44_1 Pin=R44-1
+Added Pin To Net: NetName=SDMMC1_D0 Pin=R44-2
+Added Pin To Net: NetName=NetR45_1 Pin=R45-1
+Added Pin To Net: NetName=SDMMC1_CMD Pin=R45-2
+Added Pin To Net: NetName=NetR46_1 Pin=R46-1
+Added Pin To Net: NetName=SDMMC1_CLK Pin=R46-2
+Added Member To Class: ClassName=SDMMC1 Member=Component R41 22O
+Added Member To Class: ClassName=SDMMC1 Member=Component R42 22O
+Added Member To Class: ClassName=SDMMC1 Member=Component R43 22O
+Added Member To Class: ClassName=SDMMC1 Member=Component R44 22O
+Added Member To Class: ClassName=SDMMC1 Member=Component R45 22O
+Added Member To Class: ClassName=SDMMC1 Member=Component R46 22O

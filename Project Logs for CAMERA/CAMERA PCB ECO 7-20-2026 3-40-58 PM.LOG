@@ -1,0 +1,20 @@
+Added Component: Designator=C190(C0201)
+Added Component: Designator=TP1(TEST POINT 1mm)
+Add component (AddParameter): Name = "Value"; Value = "Test Point"; VariantName = "[No Variations]"
+Added Component: Designator=TP2(TEST POINT 1mm)
+Add component (AddParameter): Name = "Value"; Value = "Test Point"; VariantName = "[No Variations]"
+Added Component: Designator=TP3(TEST POINT 1mm)
+Add component (AddParameter): Name = "Value"; Value = "Test Point"; VariantName = "[No Variations]"
+Added Component: Designator=TP4(TEST POINT 1mm)
+Add component (AddParameter): Name = "Value"; Value = "Test Point"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C190-1
+Added Pin To Net: NetName=3V3SYS Pin=C190-2
+Added Pin To Net: NetName=UART0_RX Pin=TP1-1
+Added Pin To Net: NetName=UART0_TX Pin=TP2-1
+Added Pin To Net: NetName=3V3SYS Pin=TP3-1
+Added Pin To Net: NetName=GND Pin=TP4-1
+Added Member To Class: ClassName=PMUIO_BLOCK Member=Component C190 0.1uF
+Added Member To Class: ClassName=PMUIO_BLOCK Member=Component TP1 TP
+Added Member To Class: ClassName=PMUIO_BLOCK Member=Component TP2 TP
+Added Member To Class: ClassName=PMUIO_BLOCK Member=Component TP3 TP
+Added Member To Class: ClassName=PMUIO_BLOCK Member=Component TP4 TP

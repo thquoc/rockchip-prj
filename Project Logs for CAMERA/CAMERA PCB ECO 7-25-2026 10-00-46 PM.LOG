@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=CN1 Old Footprint=CONN-SMD_S4B-XH-SM4-TB-LF-SN New Footprint=CONN-SMD_4P-P2.00_WTBA0-BH004
+Change Component Comment : Designator=CN1 Old Comment=S4B-XH-SM4-TB(LF)(SN) New Comment=SMD,P=2mm,Surface Mount,Right Angle

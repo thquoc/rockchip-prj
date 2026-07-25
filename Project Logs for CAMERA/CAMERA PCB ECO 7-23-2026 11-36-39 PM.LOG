@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=C186-1
+Removed Pin From Net: NetName=5VIN Pin=C186-2
+Removed Pin From Net: NetName=GND Pin=C187-1
+Removed Pin From Net: NetName=5VIN Pin=C187-2
+Removed Pin From Net: NetName=GND Pin=C188-1
+Removed Pin From Net: NetName=5VIN Pin=C188-2
+Removed Member From Class: ClassName=Connector Member=C186
+Removed Member From Class: ClassName=Connector Member=C187
+Removed Member From Class: ClassName=Connector Member=C188

@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=VCC0V9 Pin=C154-2
+Added Pin To Net: NetName=0V9 Pin=C154-2

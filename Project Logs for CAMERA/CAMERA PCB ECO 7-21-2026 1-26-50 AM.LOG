@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=SDMMC1_D3 Pin=R41-2
+Removed Pin From Net: NetName=SDMMC1_D2 Pin=R42-2
+Removed Pin From Net: NetName=SDMMC1_D1 Pin=R43-2
+Removed Pin From Net: NetName=SDMMC1_D0 Pin=R44-2
+Removed Pin From Net: NetName=SDMMC1_CMD Pin=R45-2
+Removed Member From Class: ClassName=SDMMC1 Member=R41
+Removed Member From Class: ClassName=SDMMC1 Member=R42
+Removed Member From Class: ClassName=SDMMC1 Member=R43
+Removed Member From Class: ClassName=SDMMC1 Member=R44
+Removed Member From Class: ClassName=SDMMC1 Member=R45
+Removed Member From Class: ClassName=SDMMC1_50OHM Member=SDMMC1_D3
+Added Pin To Net: NetName=SDMMC1_D2 Pin=U1-A20
+Added Pin To Net: NetName=SDMMC1_D0 Pin=U1-A22
+Added Pin To Net: NetName=SDMMC1_D1 Pin=U1-A23
+Added Pin To Net: NetName=SDMMC1_CMD Pin=U1-B21

@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=GND Pin=C123-1
+Removed Pin From Net: NetName=VCC_1V8 Pin=C123-2
+Removed Member From Class: ClassName=LPDDR4X SDRAM Member=C123

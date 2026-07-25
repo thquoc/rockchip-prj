@@ -1,0 +1,57 @@
+Removed Pin From Net: NetName=3V3SYS Pin=R11-1
+Removed Pin From Net: NetName=INT Pin=R11-2
+Removed Pin From Net: NetName=3V3SYS Pin=R12-1
+Removed Pin From Net: NetName=SCL Pin=R12-2
+Change Component Footprint: Designator=C2 Old Footprint=C0402 New Footprint=C0201
+Change Component Footprint: Designator=C3 Old Footprint=C0402 New Footprint=C0201
+Change Component Footprint: Designator=C8 Old Footprint=C0402 New Footprint=C0201
+Change Component Footprint: Designator=C10 Old Footprint=C0402 New Footprint=C0201
+Change Component Footprint: Designator=C11 Old Footprint=C0402 New Footprint=C0201
+Change Component Footprint: Designator=C14 Old Footprint=C0402 New Footprint=C0201
+Change Component Footprint: Designator=C17 Old Footprint=C0402 New Footprint=C0201
+Change Component Footprint: Designator=C18 Old Footprint=C0402 New Footprint=C0201
+Change Component Footprint: Designator=C20 Old Footprint=C0402 New Footprint=C0201
+Change Component Footprint: Designator=C21 Old Footprint=C0402 New Footprint=C0201
+Change Component Footprint: Designator=C22 Old Footprint=C0402 New Footprint=C0201
+Change Component Footprint: Designator=C23 Old Footprint=C0402 New Footprint=C0201
+Change Component Footprint: Designator=C24 Old Footprint=C0402 New Footprint=C0201
+Change Component Footprint: Designator=C25 Old Footprint=C0402 New Footprint=C0201
+Change Component Footprint: Designator=C27 Old Footprint=C0402 New Footprint=C0201
+Change Component Footprint: Designator=C34 Old Footprint=C0402 New Footprint=C0201
+Change Component Footprint: Designator=C38 Old Footprint=C0402 New Footprint=C0201
+Change Component Footprint: Designator=C41 Old Footprint=C0603 New Footprint=C0201
+Change Component Footprint: Designator=R1 Old Footprint=R0402 New Footprint=R0201
+Change Component Footprint: Designator=R3 Old Footprint=R0402 New Footprint=R0201
+Change Component Footprint: Designator=R4 Old Footprint=R0402 New Footprint=R0201
+Change Component Footprint: Designator=R5 Old Footprint=R0402 New Footprint=R0201
+Change Component Footprint: Designator=R8 Old Footprint=R0402 New Footprint=R0201
+Change Component Footprint: Designator=R11 Old Footprint=R0402 New Footprint=R0201
+Change Component Footprint: Designator=R12 Old Footprint=R0402 New Footprint=R0201
+Change Component Footprint: Designator=R13 Old Footprint=R0402 New Footprint=R0201
+Change Component Footprint: Designator=R14 Old Footprint=R0402 New Footprint=R0201
+Change Component Comment : Designator=C27 Old Comment=0.1uF New Comment=1uF
+Change Component Comment : Designator=R14 Old Comment=1kO New Comment=4.7KO
+Change Component Comment : Designator=C41 Old Comment=1nF New Comment=1uF
+Change component parameters: Designator = "C20" ("C20"); Footprint = "C0402"; UniqueID = "\PJDEBZSU" ("\PJDEBZSU")
+Change component parameters: Designator = "R4" ("R4"); Footprint = "R0402"; UniqueID = "\IOTJSIDS" ("\IOTJSIDS")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C295718.html?s_z=n_q_t_120%2520OHM&spm=wm.fly.bg.5.xh___wm.ssy.tc.1.tz&lcsc_vid=EwRWBFZSQVIPVFdUTlJfVldeFFRYUFQAElRYBFRRE1MxVlNeRFZeU1BfTlBYVzsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRVhcV1ZTT08GEwkK"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5" ("R5"); Footprint = "R0402"; UniqueID = "\PYPEMXSF" ("\PYPEMXSF")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C93949.html?spm=wm.fly.bg.0.xh&lcsc_vid=EwRWBFZSQVIPVFdUTlJfVldeFFRYUFQAElRYBFRRE1MxVlNeRVlXUFNQQ1RWXjsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRlVYUFFIHxUDCw%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R11" ("R11"); Footprint = "R0402"; UniqueID = "\IPCKPDCZ" ("\IPCKPDCZ")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C295718.html?s_z=n_q_t_120%2520OHM&spm=wm.fly.bg.5.xh___wm.ssy.tc.1.tz&lcsc_vid=EwRWBFZSQVIPVFdUTlJfVldeFFRYUFQAElRYBFRRE1MxVlNeRFZeU1BfTlBYVzsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRVhcV1ZTT08GEwkK"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12" ("R12"); Footprint = "R0402"; UniqueID = "\DWFPDLJX" ("\DWFPDLJX")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C295718.html?s_z=n_q_t_120%2520OHM&spm=wm.fly.bg.5.xh___wm.ssy.tc.1.tz&lcsc_vid=EwRWBFZSQVIPVFdUTlJfVldeFFRYUFQAElRYBFRRE1MxVlNeRFZeU1BfTlBYVzsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRVhcV1ZTT08GEwkK"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R13" ("R13"); Footprint = "R0402"; UniqueID = "\ORSUXDLL" ("\ORSUXDLL")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C295718.html?s_z=n_q_t_120%2520OHM&spm=wm.fly.bg.5.xh___wm.ssy.tc.1.tz&lcsc_vid=EwRWBFZSQVIPVFdUTlJfVldeFFRYUFQAElRYBFRRE1MxVlNeRFZeU1BfTlBYVzsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRVhcV1ZTT08GEwkK"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R14" ("R14"); Footprint = "R0402"; UniqueID = "\YFJAUHEX" ("\YFJAUHEX")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/C295718.html?s_z=n_q_t_120%2520OHM&spm=wm.fly.bg.5.xh___wm.ssy.tc.1.tz&lcsc_vid=EwRWBFZSQVIPVFdUTlJfVldeFFRYUFQAElRYBFRRE1MxVlNeRFZeU1BfTlBYVzsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRVhcV1ZTT08GEwkK"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=INT Pin=R11-1
+Added Pin To Net: NetName=3V3SYS Pin=R11-2
+Added Pin To Net: NetName=SCL Pin=R12-1
+Added Pin To Net: NetName=3V3SYS Pin=R12-2

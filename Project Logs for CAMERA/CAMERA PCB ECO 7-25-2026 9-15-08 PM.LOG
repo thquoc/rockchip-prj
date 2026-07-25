@@ -1,0 +1,6 @@
+Added Component: Designator=H1(HDR-TH_4P-P1.27-V-M)
+Added Pin To Net: NetName=UART0_RX Pin=H1-1
+Added Pin To Net: NetName=UART0_TX Pin=H1-2
+Added Pin To Net: NetName=3V3SYS Pin=H1-3
+Added Pin To Net: NetName=GND Pin=H1-4
+Added Member To Class: ClassName=PMUIO_BLOCK Member=Component H1 Through Hole,P=1.27mm

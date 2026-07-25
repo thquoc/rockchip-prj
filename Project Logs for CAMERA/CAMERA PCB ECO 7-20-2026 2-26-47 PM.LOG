@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=CN1 Old Footprint=CONN-TH_S4B-XH-A-LF-SN New Footprint=CONN-SMD_S4B-XH-SM4-TB-LF-SN
+Change Component Comment : Designator=CN1 Old Comment=Through Hole,Right Angle,P=2.5mm New Comment=S4B-XH-SM4-TB(LF)(SN)
+Added Pin To Net: NetName=GND Pin=CN1-5
+Added Pin To Net: NetName=GND Pin=CN1-6

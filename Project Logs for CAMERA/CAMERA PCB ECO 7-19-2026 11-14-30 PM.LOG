@@ -1,0 +1,13 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C189
+Added Component: Designator=S1(SCREW 3.0)
+Added Component: Designator=S2(SCREW 3.0)
+Added Component: Designator=S3(SCREW 3.0)
+Added Component: Designator=S4(SCREW 3.0)
+Added Pin To Net: NetName=GND Pin=S1-1
+Added Pin To Net: NetName=GND Pin=S2-1
+Added Pin To Net: NetName=GND Pin=S3-1
+Added Pin To Net: NetName=GND Pin=S4-1
+Added Member To Class: ClassName=OTHER Member=Component S1 Screw
+Added Member To Class: ClassName=OTHER Member=Component S2 Screw
+Added Member To Class: ClassName=OTHER Member=Component S3 Screw
+Added Member To Class: ClassName=OTHER Member=Component S4 Screw
